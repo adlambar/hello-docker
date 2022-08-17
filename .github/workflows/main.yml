@@ -5,7 +5,7 @@ on:
       name:
         description: 'name of the person'
         required: true
-        default: 'Chaminda'
+        default: 'Adrian'
       country:
         description: 'Country'
         required: false
